@@ -1,4 +1,8 @@
 # Optimización de Cartera con el Modelo de Markowitz
+---
+```
+Hecho por Milovan Marrder
+```
 
 ## Descripción del Proyecto
 
