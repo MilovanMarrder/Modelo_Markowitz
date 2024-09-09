@@ -1,5 +1,8 @@
 # Portfolio Optimization with Markowitz Model
-
+---
+```
+Made by Milovan Marrder
+```
 ## Project Overview
 
 This project implements a portfolio optimization tool using the Markowitz Model. It allows investors to find the optimal asset allocation for a given set of investments, balancing risk and return based on their risk tolerance.
@@ -81,10 +84,6 @@ You can customize the project by:
 ## Contributing
 
 Contributions to improve the project are welcome. Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Disclaimer
 
